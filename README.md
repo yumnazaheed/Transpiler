@@ -1,4 +1,4 @@
-# Sharpie — Shell-to-Python Transpiler
+# Sharpie: Shell-to-Python Transpiler
 
 A source-to-source compiler written in Python that translates POSIX Shell scripts into readable, human-modifiable Python. Built for COMP2041 Software Construction at UNSW.
 
